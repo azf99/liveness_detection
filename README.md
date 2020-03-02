@@ -1,5 +1,5 @@
 # liveness_detection
-This project aims to detect whether the fa e infront of a camera is a real one.
+This project aims to detect whether the face infront of a camera is a real one.
 
 # Files:
 1. test_code.py: commtainns code that implements facial feature tracking, using mtcnn and eye blinking test, using a pretrained model and haar cascades
